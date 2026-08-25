@@ -7,7 +7,7 @@
 
 ---
 
-## 🌎 English Description
+## <img src="https://hatscripts.github.io/circle-flags/flags/gb.svg" width="22"> English Description
 
 An interactive, FAIR-compliant computational framework for the analysis, visualization, and audit of the non-trivial zeros of the Riemann zeta function. This project integrates 2.1 million zeros from historical and modern sources into a single, high-performance ecosystem.
 
@@ -28,7 +28,7 @@ An interactive, FAIR-compliant computational framework for the analysis, visuali
 
 ---
 
-## 🇺🇦 Опис проекту (Ukrainian)
+## <img src="https://hatscripts.github.io/circle-flags/flags/ua.svg" width="22"> Опис проекту (Ukrainian)
 
 Інтерактивна обчислювальна платформа для аналізу, візуалізації та аудиту нетривіальних нулів дзета-функції Рімана, розроблена згідно з принципами FAIR. Проект об'єднує 2.1 млн нулів з історичних та сучасних джерел у єдину високопродуктивну екосистему.
 
