@@ -1,7 +1,7 @@
 # 🎼 Riemann Zeta Zeros Research Dashboard
 ### Дослідницька панель нулів Дзети Рімана
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg)](https://zeta_zeros.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg)](https://zeta-research.streamlit.app)
 [![Data DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22045431.svg)](https://doi.org/10.5281/zenodo.22045431)
 [![FAIR Score](https://img.shields.io/badge/FAIR_Maturity-84%25-green)](https://www.f-uji.net/)
 
